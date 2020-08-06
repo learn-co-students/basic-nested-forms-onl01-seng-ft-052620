@@ -80,7 +80,7 @@ returning all of the information about the first address at 33 West 26th St.
         :address_type => "Home"
       }
     }
-  }
+  } 
 }
 ```
 
